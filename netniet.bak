@@ -1,0 +1,8 @@
+'client_id', (0, 29)
+'client_secret', (512, 30)
+'username', (1024, 36)
+'password', (1536, 18)
+'token_url', (2048, 46)
+'kred_lijst', (2560, 88)
+'ext_lijst', (8192, 56)
+'saved_loc', (8704, 45)
