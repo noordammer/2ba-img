@@ -1,7 +1,7 @@
 *********************************************
-* Titel : 2BA afbeeldingen	download		*
-* Auteur: Paul Noordam						*
-* Jaar	: 2019								*
+* Titel : 2BA afbeeldingen download         *
+* Auteur: Paul Noordam				    *
+* Jaar	: 2019					    *
 *********************************************
 
 Inhoud:
