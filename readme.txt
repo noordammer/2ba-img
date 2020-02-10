@@ -135,10 +135,4 @@ PROBLEMEN(?):
 ==========================
 BACKUP API INLOG GEGEVENS:
 ==========================
-In het geval van een verkeerde aanpassing van de API gegevens hieronder de originele gegevens.
-
-client_id 		= r'INTRANET_OOSTERBERG'
-client_secret 	= r'Mx119vaGU9THwdHe61Ju'
-username		= "paul.noordam@oosterberg.nl"
-password 		= "Spider11"
-token_url 		= "https://authorize.2ba.nl/OAuth/Token"
+In het geval van een verkeerde aanpassing van de API gegevens de lokale readme raadplegen voor de backup gegevens.
